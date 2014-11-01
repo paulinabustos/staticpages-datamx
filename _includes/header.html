@@ -1,20 +1,34 @@
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-        <span class="sr-only">Toggle navigation</span>
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+
+      <!-- Be sure to leave the brand out there if you want it shown -->
+
+      <a class="logo brand" href="/"><img src="/images/base/cmx-logo.png" alt="Datamx.io" title="Datamx.io"></a>
+
+
+
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">Project name</a>
+      </a>
+
+
+      <!-- Everything you want hidden at 940px or less, place within here -->
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li><a href="/dataset">Datos</a></li>
+          <li><a href="/organization">Organizaciones</a></li>
+          <li><a href="http://apertura.datamx.io/">Centro de Apertura</a></li>
+        </ul>
+        <ul class="nav pull-right">
+
+          <li><a href="/user/login">Iniciar Sesión</a></li>
+
+        </ul>
+      </div>
     </div>
-    <div id="navbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </div><!--/.nav-collapse -->
   </div>
-</nav>
+</div>
