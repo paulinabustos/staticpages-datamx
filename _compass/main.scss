@@ -1,9 +1,9 @@
 @import "bootstrap";
 
-
+$azul-codeando:#283858;
 
 body {
-  background-color: #283858;
+  background-color: $azul-codeando;
 }
 
 .account-masthead {
@@ -27,7 +27,7 @@ body {
 
 .navbar-inner {
   border: none;
-  background: #283858;
+  background: $azul-codeando;
 }
 
 .navbar {
@@ -72,12 +72,12 @@ body {
 }
 
 .navbar .nav li.dropdown.open>.dropdown-toggle {
-  background-color: #283858;
+  background-color: $azul-codeando;
   color: #ffffff;
 }
 
 .dropdown-menu>li>a:hover {
-  background: #283858;
+  background: $azul-codeando;
 }
 
 /* Index search snippet */
@@ -87,16 +87,12 @@ body {
   color: #ffffff;
 }
 
-.homepage .module-search {
+.homepage {
   text-align: center;
   padding: 0px;
   background-color: #121E34;
 }
 
-.highlighted {
-  color: #2F9DE6;
-  font-weight: bolder;
-}
 .homepage .search-form .search-input.search-giant input {
   padding: 25px 100px 25px 20px;
   width: 600px;
@@ -172,19 +168,19 @@ body {
 }
 
 /* who uses it */
-.roles {
+.content {
   padding: 25px 0px 25px 0px;
   text-align: center;
   background-color: #EEEEEE;
   color: #424242;
 }
 
-.roles h2, .roles-sample h2 {
+.content h2, .content-sample h2 {
   letter-spacing: 0.05em;
   font-weight: 400;
 }
 
-.roles p {
+.content p {
   letter-spacing: 0.05em;
   line-height: 1.3em;
   font-size: 21px;
@@ -204,7 +200,7 @@ div.frame-round-white-bg {
   background-color: #ffffff;
 }
 
-div.roles-container {
+div.content-container {
   display: inline-block;
   margin: 3px;
   /* Removes default space between inline blocks
@@ -213,42 +209,42 @@ div.roles-container {
   font-size: 0;
 }
 
-div.roles-container div {
+div.content-container div {
   font-size: 21px;
 }
 
-div.roles-sample {
+div.content-sample {
   text-align: left;
   vertical-align: top;
   padding-top: 60px;
   padding-bottom: 59px;
 }
 
-div.roles-sample p {
+div.content-sample p {
   margin: 10px 0px;
 }
 
-div.roles-sample a {
+div.content-sample a {
   color: inherit;
 }
 
-div.roles-sample-green-bg {
+div.content-sample-green-bg {
   background: url(/green_img_bg.png) no-repeat center center;
 }
 
-div.roles-sample-yellow-bg {
+div.content-sample-yellow-bg {
   background: url(/yellow_img_bg.png) no-repeat center center;
 }
 
-div.roles-sample-blue-bg {
+div.content-sample-blue-bg {
   background: url(/blue_img_bg.png) no-repeat center center;
 }
 
-div.roles-sample-orange-bg {
+div.content-sample-orange-bg {
   background: url(/orange_img_bg.png) no-repeat center center;
 }
 
-div.roles-sample p {
+div.content-sample p {
   color: #FFFFFF;
 }
 
@@ -322,39 +318,25 @@ a.button-bordered {
 /* Footer */
 
 .site-footer {
-  background: #EEEEEE;
-  color: #2C2C2C;
+  background: $azul-codeando;
+  color: #FFF;
   font-weight: 200;
   font-size: 1.1em;
   padding: 50px;
 }
 
-.site-footer a {
-  color: #2C2C2C;
-}
-
-.site-footer h5 {
-  font-weight: 200;
-  color: #565656;
-}
-
-.site-footer .logo {
-  text-align: right;
-  vertical-align: top;
-}
-
-.site-footer label {
-  color: #2C2C2C;
-  font-weight: 200;
-  font-size: 1.1em;
-}
 .footer-links {
-  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
 }
 
-.footer-links .logo, .footer-links .all-links {
-  display: inline-block;
-  margin: 0px 50px 0px 50px;
+.logo{
+  width:10em;
+}
+.logo-font{
+  font-size:0.73em;
+  text-align: center;
 }
 
 
@@ -746,11 +728,6 @@ div.sort-datasets a {
 
   .site-footer {
     padding: 5px;
-  }
-
-  .footer-links .logo,
-  .footer-links .all-links {
-    margin: 0px;
   }
 
   .organization-info p {
