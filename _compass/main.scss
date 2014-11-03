@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import "syntax-highlighting";
 
 $azul-codeando:#283858;
 
@@ -175,7 +176,10 @@ body {
   color: #424242;
 }
 
-.content h2, .content-sample h2 {
+.content h1{
+  font-weight: 200;
+}
+.content h2{
   letter-spacing: 0.05em;
   font-weight: 400;
 }
@@ -183,7 +187,7 @@ body {
 .content p {
   letter-spacing: 0.05em;
   line-height: 1.3em;
-  font-size: 21px;
+  font-size: 1.1em ;
   font-weight: 200;
   color: #858585;
   margin: 10px;
