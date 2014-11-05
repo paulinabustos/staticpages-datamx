@@ -2,13 +2,10 @@
 title: Datamx.io - La plataforma de datos abiertos de México.
 email: datamx@codeandomexico.org
 description: > # this means to ignore newlines until "baseurl:"
-  Datamx es un esfuerzo por abrir datos desde la sociedad civil
-  en México. Los datos abiertos nos permiten conocer y resolver
-  los problemas que más aquejan a nuestra sociedad. Datamx acerca
-  estos datos a la población y proporciona un espacio para que
-  tales datos sean publicados y utilizados.
+  En datos.gob.mx puedes descargar y utilizar libremente datos abiertos
+  que el Gobierno de la República genera y recolecta.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://paginas.datamx.io/" # the base hostname & protocol for your site
+url: "http://localhost:4000/" # the base hostname & protocol for your site
 twitter_username: datamx_io
 github_username: codeandomexico
 
@@ -17,7 +14,6 @@ collaborators:
   equipo_datamx:
     title: "Datamx.io"
     logo_url: "logo_datamx.png"
-output_style: compact
 
 #Jekyll build settings
 sass_options:
