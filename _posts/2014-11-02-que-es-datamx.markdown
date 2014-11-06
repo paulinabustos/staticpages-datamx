@@ -2,6 +2,7 @@
 layout: page
 title:  "¿Qué es Datamx.io?"
 date:   2014-11-02
+permalink: /about/
 categories: datamx
 ---
 
