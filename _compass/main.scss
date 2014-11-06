@@ -4,6 +4,7 @@
 @import "variables";
 
 $azul-codeando:#283858;
+$azul-obscuro-codeando:#151f31;
 
 body {
   background-color: $azul-codeando;
@@ -23,7 +24,7 @@ body {
    ======================================================================== */
 
 .navbar .brand {
-  background-color: #151f31;
+  background-color: $azul-obscuro-codeando;
   padding: 15px 83px;
   max-width: 194px;
 }
@@ -55,7 +56,7 @@ body {
 }
 
 .navbar .btn-navbar .icon-bar {
-  background-color: #151f31;
+  background-color: $azul-obscuro-codeando;
 }
 
 .navbar .nav>li>a {
@@ -641,13 +642,17 @@ div.sort-datasets a {
 @media (max-width: 979px) {
   .nav-collapse .nav>li>a:hover, .nav-collapse .nav>li>a:focus,
   .nav-collapse .dropdown-menu a:hover, .nav-collapse .dropdown-menu a:focus {
-    background-color: #151f31;
+    background-color: $azul-obscuro-codeando;
   }
   .nav-collapse .nav>li>a,
   .nav-collapse .dropdown-menu a {
     color: #ffffff;
     text-shadow: none;
     font-weight: 200;
+  }
+
+  .navbar-inner{
+    background: $azul-obscuro-codeando;
   }
 
   .nav-collapse .dropdown-menu a {
