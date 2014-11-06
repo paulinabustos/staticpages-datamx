@@ -35,15 +35,15 @@ Puede ser que esos datos aún no estén en datamx :(. En ese caso, pídelos a tr
 
 
 ##¿Quién mantiene datamx?
-Por el momento [Codeando México][codeando-mexico] está encargándose de que datamx funcione. Sin embargo, datamx 
+Por el momento [Codeando México][codeando-mexico] está encargándose de que datamx funcione. Sin embargo, datamx
 es un proyecto de tod@s, es código abierto y estás invitad@ a [contribuir][github-codeando].
 
 
 ##¿Cuál es la diferencia entre datamx y datos.gob.mx? 
-¡Somos plataformas hermanas! [datos.gob.mx][datosgobmx] es la plataforma oficial de datos abiertos del Gobierno de México y
-ahí puedes encontrar muchos datos de valor. Datamx es la contraparte civil de esta plataforma. datos.gob.mx es
-una plataforma dedicada exclusivamente a entidades gubernamentales.  En datamx cualquier ciudadano, académico,
-asociación de la sociedad civil o entidad gubernamental puede abrir y consumir datos.
+¡Somos plataformas hermanas! [datos.gob.mx][datosgobmx] es la plataforma oficial de datos abiertos del Gobierno
+de México y ahí puedes encontrar muchos datos de valor. Datamx es la contraparte civil de esta plataforma.
+datos.gob.mx es una plataforma dedicada exclusivamente a entidades gubernamentales.  En datamx cualquier
+ciudadano, académico, asociación de la sociedad civil o entidad gubernamental puede abrir y consumir datos.
 
 
 ##¡Tengo más dudas!
@@ -53,4 +53,5 @@ Esperamos tu correo en datamx@codeandomexico.org.
 [github-codeando]:       http://apertura.datamx.io
 [cad]:                   http://apertura.datamx.io
 [datosgobmx]:            http://datos.gob.mx
-[opendata-handbook]:     http://opendatahandbook.org/
+[opendata-handbook]:     http://opendatahandbook.org
+[codeando-mexico]:       http://codeandomexico.org

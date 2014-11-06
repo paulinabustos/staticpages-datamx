@@ -172,16 +172,22 @@ body {
 }
 
 /* who uses it */
-.content {
-  padding: 25px 0px 25px 0px;
+header{
   text-align: center;
+  margin: 1.8em;
+}
+
+.content {
+  padding: 2em;
+  text-align: left;
   background-color: #EEEEEE;
   color: #424242;
 }
 
 .content h1{
-  font-weight: 200;
+  font-weight: 700;
 }
+
 .content h2{
   letter-spacing: 0.05em;
   font-weight: 400;
@@ -189,11 +195,11 @@ body {
 
 .content p {
   letter-spacing: 0.05em;
-  line-height: 1.3em;
+  line-height: 1.4em;
   font-size: 1.1em ;
   font-weight: 200;
   color: #858585;
-  margin: 10px;
+  margin: 2em 0;
 }
 
 div.frame-round {
