@@ -3,7 +3,7 @@ require:
 - jekyll-compass
 - bootstrap-sass
 
-project_path: /home/poguez/development/ruby/jekyll/staticpages-datamx/.
+project_path: ./
 http_path: /
 css_dir: css
 sass_dir: _compass
