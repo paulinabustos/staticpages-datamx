@@ -1,0 +1,68 @@
+---
+layout: story
+title:  "Historias de datos con Datamx.io"
+date:   2014-11-13
+permalink: /historias/
+image: /images/historias/historia.jpg
+
+categories: datamx,historias
+---
+
+>> __“Debemos humanizar los datos”:__
+>> Sergio Araiza, Panel de Abriendo datos desde la ciudadanía @ ConDatos 2014
+
+Los datos abiertos por si solos no alcanzan su máximo potencial. En datamx
+creemos que lo más importante de los datos abiertos que se abren es tomarlos
+e utilizarlos para resolver o visibilizar los problemas que más aquejan a
+nuestra sociedad. Es por esto que comenzamos a documentar ejemplos de cómo
+se utilizan los datos abiertos desde la comunidad.
+
+
+##¿Cuánto debemos?
+¿Sabías que Tlaxcala es el único estado sin deuda pública?, interesante, ¿verdad?.
+[Cuanto debemos](http://cuantodebemos.mx) es una visualización de datos ganadora del
+[Open Data MTY 2014](http://www.opendatamty.org/) creada por BlueHats.
+En ella se visualiza información relevante sobre las deuda pública que tiene
+cada uno de los estados. 
+
+![Cuantodebemos.mx](/images/historias/cuanto_debemos.png)
+
+###Dataset
+<iframe class="text-center" height="510" width="398" src="http://datamx.io/dataset/obligaciones-financieras-de-entidades-federativas-y-municipios/widget" frameborder="0" style="border:0" >unwantedtext</iframe>  
+<br />
+
+
+## Indicadores de pobreza
+¿Cuáles son los estados con más porcentaje de población en estado de pobreza?
+[Indicadores de Pobreza](https://poverty-indicators.herokuapp.com/) nos ofrece
+un análisis simple de esta problemática en México. Daniel García [@pel_daniel](http://twitter.com/pel_daniel)
+la creó en las Civic Hack Nights del DF.
+
+![Indicadores de pobreza](/images/historias/indicadores_pobreza.png)
+<br />
+
+
+##Contratos San Pedro
+Las obras públicas son las acciones más visibles de una administración,
+el equipo de servicio social del Tecnológico de Monterrey (Montse Lozano, Grecia Zavala, Diego Garduño y Edgardo Gamboa) 
+crearon [Obras públicas de la Zona Metropolitana de Monterrey](http://zmm-obras-publicas.herokuapp.com/municipios/9/obras)
+nos ofrece una manera de monitorear esta actividad hasta ahora en el municipio de San Pedro Garza García.
+
+![Cuantodebemos.mx](/images/historias/contratos_san_pedro.png)
+<br />
+
+
+##Evaluaciones de Alcalde ¿Cómo Vamos?
+El observatorio ciudadano Alcalde ¿Cómo Vamos? califica a las ciudades de la
+Zona Metropolitana de Monterrey cada bimestre. [Milton Mazzarri](http://hackingmty.org/comovamosnl/)
+miembro de las Civic Hacknights de  Monterrey nos muestra cómo les fue
+a estas ciudades en este último año con esta [visualización](http://hackingmty.org/comovamosnl/).
+
+![Como Vamos NL](/images/historias/milton.png)
+<br />
+
+¿Tienes una historia de datos que no esta en esta página? Mándala a [datamx@codeandomexico.org](mailto:datamx@codeandomexico.org)
+y muéstranos cómo estas impactando a tu comunidad con [#datosabiertos](https://twitter.com/search?q=%23datosabiertos&src=typd).
+
+
+>> Foto de la portada [Flickr/Jer Thorp](https://www.flickr.com/photos/blprnt/4176305484/in/photostream/)
