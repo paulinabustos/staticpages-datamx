@@ -26,9 +26,6 @@ En ella se visualiza información relevante sobre las deuda pública que tiene
 cada uno de los estados. 
 
 ![Cuantodebemos.mx](/images/historias/cuanto_debemos.png)
-
-###Dataset
-<iframe class="text-center" height="510" width="398" src="http://datamx.io/dataset/obligaciones-financieras-de-entidades-federativas-y-municipios/widget" frameborder="0" style="border:0" >unwantedtext</iframe>  
 <br />
 
 
