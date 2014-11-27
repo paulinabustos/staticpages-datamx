@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datamx.io - La plataforma de datos abiertos de México.</title>
+    <description>Datamx es un esfuerzo por abrir datos desde la sociedad civil en México. Los datos abiertos nos permiten conocer y resolver los problemas que más aquejan a nuestra sociedad. Datamx acerca estos datos a la población y proporciona un espacio para que tales datos sean publicados y utilizados.
+</description>
+    <link>http://paginas.datamx.io//</link>
+    <atom:link href="http://paginas.datamx.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 27 Nov 2014 12:30:31 -0600</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2014 12:30:31 -0600</lastBuildDate>
+    <generator>Jekyll v1.5.1</generator>
+    
+      <item>
+        <title>Historias de datos con Datamx.io</title>
+        <description>&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;&lt;strong&gt;“Debemos humanizar los datos”:&lt;/strong&gt;
+Sergio Araiza, Panel de Abriendo datos desde la ciudadanía @ ConDatos 2014&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Los datos abiertos por si solos no alcanzan su máximo potencial. En datamx
+creemos que lo más importante de los datos abiertos que se abren es tomarlos
+e utilizarlos para resolver o visibilizar los problemas que más aquejan a
+nuestra sociedad. Es por esto que comenzamos a documentar ejemplos de cómo
+se utilizan los datos abiertos desde la comunidad.&lt;/p&gt;
+
+&lt;h2 id=&quot;cunto-debemos&quot;&gt;¿Cuánto debemos?&lt;/h2&gt;
+&lt;p&gt;¿Sabías que Tlaxcala es el único estado sin deuda pública?, interesante, ¿verdad?.
+&lt;a href=&quot;http://cuantodebemos.mx&quot;&gt;Cuanto debemos&lt;/a&gt; es una visualización de datos ganadora del
+&lt;a href=&quot;http://www.opendatamty.org/&quot;&gt;Open Data MTY 2014&lt;/a&gt; creada por BlueHats.
+En ella se visualiza información relevante sobre las deuda pública que tiene
+cada uno de los estados. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/historias/cuanto_debemos.png&quot; alt=&quot;Cuantodebemos.mx&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;indicadores-de-pobreza&quot;&gt;Indicadores de pobreza&lt;/h2&gt;
+&lt;p&gt;¿Cuáles son los estados con más porcentaje de población en estado de pobreza?
+&lt;a href=&quot;https://poverty-indicators.herokuapp.com/&quot;&gt;Indicadores de Pobreza&lt;/a&gt; nos ofrece
+un análisis simple de esta problemática en México. Daniel García &lt;a href=&quot;http://twitter.com/pel_daniel&quot;&gt;@pel_daniel&lt;/a&gt;
+la creó en las Civic Hack Nights del DF.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/historias/indicadores_pobreza.png&quot; alt=&quot;Indicadores de pobreza&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contratos-san-pedro&quot;&gt;Contratos San Pedro&lt;/h2&gt;
+&lt;p&gt;Las obras públicas son las acciones más visibles de una administración,
+el equipo de servicio social del Tecnológico de Monterrey (Montse Lozano, Grecia Zavala, Diego Garduño y Edgardo Gamboa) 
+crearon &lt;a href=&quot;http://zmm-obras-publicas.herokuapp.com/municipios/9/obras&quot;&gt;Obras públicas de la Zona Metropolitana de Monterrey&lt;/a&gt;
+nos ofrece una manera de monitorear esta actividad hasta ahora en el municipio de San Pedro Garza García.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/historias/contratos_san_pedro.png&quot; alt=&quot;Cuantodebemos.mx&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;evaluaciones-de-alcalde-cmo-vamos&quot;&gt;Evaluaciones de Alcalde ¿Cómo Vamos?&lt;/h2&gt;
+&lt;p&gt;El observatorio ciudadano Alcalde ¿Cómo Vamos? califica a las ciudades de la
+Zona Metropolitana de Monterrey cada bimestre. &lt;a href=&quot;http://hackingmty.org/comovamosnl/&quot;&gt;Milton Mazzarri&lt;/a&gt;
+miembro de las Civic Hacknights de  Monterrey nos muestra cómo les fue
+a estas ciudades en este último año con esta &lt;a href=&quot;http://hackingmty.org/comovamosnl/&quot;&gt;visualización&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/historias/milton.png&quot; alt=&quot;Como Vamos NL&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Tienes una historia de datos que no esta en esta página? Mándala a &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#097;&amp;#116;&amp;#097;&amp;#109;&amp;#120;&amp;#064;&amp;#099;&amp;#111;&amp;#100;&amp;#101;&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#109;&amp;#101;&amp;#120;&amp;#105;&amp;#099;&amp;#111;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#100;&amp;#097;&amp;#116;&amp;#097;&amp;#109;&amp;#120;&amp;#064;&amp;#099;&amp;#111;&amp;#100;&amp;#101;&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#109;&amp;#101;&amp;#120;&amp;#105;&amp;#099;&amp;#111;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;
+y muéstranos cómo estas impactando a tu comunidad con &lt;a href=&quot;https://twitter.com/search?q=%23datosabiertos&amp;amp;src=typd&quot;&gt;#datosabiertos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Foto de la portada &lt;a href=&quot;https://www.flickr.com/photos/blprnt/4176305484/in/photostream/&quot;&gt;Flickr/Jer Thorp&lt;/a&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://paginas.datamx.io//historias/</link>
+        <guid isPermaLink="true">http://paginas.datamx.io//historias/</guid>
+        
+        
+        <category>datamx,historias</category>
+        
+      </item>
+    
+      <item>
+        <title>Changelog</title>
+        <description>&lt;h2 id=&quot;sobre-la-infraestructura-de-datamx&quot;&gt;Sobre la infraestructura de Datamx&lt;/h2&gt;
+
+&lt;p&gt;Datamx es un conjunto de distintas tecnologías corriendo en distintos servicios.
+En esta página vamos a listar los cambios que hagamos al software que usamos para
+nuestros servicios. De hecho, &lt;a href=&quot;http://www.codeandomexico.org&quot;&gt;Codeando México&lt;/a&gt; tiene todos sus repositorios
+público y por lo tanto &lt;a href=&quot;http://www.datamx.io&quot;&gt;Datamx.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog-de-datamx&quot;&gt;Changelog de Datamx&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;
+07/11/2014  Se agrega changelog a Datamx.io
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;repositorios-de-cdigo&quot;&gt;Repositorios de código&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CodeandoMexico/staticpages-datamx&quot;&gt;Páginas estáticas de datamx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CodeandoMexico/ckanext-openrefine&quot;&gt;Extensión de CKAN para Open Refine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CodeandoMexico/ckanext-widgets&quot;&gt;Extensión de CKAN para widgets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CodeandoMexico/ckanext-datamx_theme&quot;&gt;El tema de CKAN para Datamx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CodeandoMexico/ckan_api&quot;&gt;La gema de consumo de CKAN para Ruby.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 06 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://paginas.datamx.io//changelog/</link>
+        <guid isPermaLink="true">http://paginas.datamx.io//changelog/</guid>
+        
+        
+        <category>datamx</category>
+        
+      </item>
+    
+      <item>
+        <title>¿Qué es Datamx.io?</title>
+        <description>&lt;p&gt;Datamx es un esfuerzo por abrir datos desde la sociedad civil en México.
+Los datos abiertos nos permiten conocer y resolver los problemas que más aquejan a nuestra sociedad.
+Datamx acerca estos datos a la población y proporciona un espacio para que tales datos sean publicados
+y utilizados.&lt;/p&gt;
+
+&lt;p&gt;Datamx es un producto creado por &lt;a href=&quot;http://twitter.com/codeandomexico&quot;&gt;@CodeandoMéxico&lt;/a&gt; con apoyo de la
+&lt;a href=&quot;http://avina.net/eng/&quot;&gt;Fundación AVINA Américas&lt;/a&gt; y es mantenido por la comunidad de Datos Abiertos de México.
+Lee más sobre datamx la sección de Preguntas Frecuentes.&lt;/p&gt;
+
+&lt;h2 id=&quot;tengo-ms-dudas&quot;&gt;¡Tengo más dudas!&lt;/h2&gt;
+&lt;p&gt;Esperamos tu correo en datamx@codeandomexico.org.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://paginas.datamx.io//about/</link>
+        <guid isPermaLink="true">http://paginas.datamx.io//about/</guid>
+        
+        
+        <category>datamx</category>
+        
+      </item>
+    
+      <item>
+        <title>FAQ: Preguntas frecuentes.</title>
+        <description>&lt;h2 id=&quot;qu-son-datos-abiertos&quot;&gt;¿Qué son datos abiertos?&lt;/h2&gt;
+
+&lt;p&gt;Son datos que están accesibles, en formato abierto, pueden utilizarse y que tienen licencia de libre
+uso &lt;a href=&quot;http://opendatahandbook.org&quot;&gt;Open Data Handbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;qu-se-puede-hacer-con-datos-abiertos&quot;&gt;¿Qué se puede hacer con Datos Abiertos?&lt;/h2&gt;
+&lt;p&gt;Una cantidad enorme de Productos de Datos: visualizaciones, aplicaciones cívicas, reportajes, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;cmo-puedo-contribuir-a-datamx&quot;&gt;¿Cómo puedo contribuir a datamx?&lt;/h2&gt;
+&lt;p&gt;Por el momento hay tres actividades principales con las que puedes contribuir.
+Pública datos: Crea una cuenta en datamx, limpia tus datos y publicalos para que la comunidad los utilice.
+Abre datos: Encuentra oportunidades de abrir datos en el &lt;a href=&quot;http://apertura.datamx.io&quot;&gt;Centro de Apertura de Datos&lt;/a&gt;.
+Crea historia de datos y/o aplicaciones cívicas: Consume los datos de datamx para crear historias y/o
+aplicaciones cívicas.&lt;/p&gt;
+
+&lt;h2 id=&quot;cmo-consumo-los-datos&quot;&gt;¿Cómo consumo los datos?&lt;/h2&gt;
+&lt;p&gt;Lo puedes hacer a través de tres mecanismos:
+Descarga los datos: Encuentra los datos que necesitas y ve al botón de “Descargar Datos”.
+Consumirlos a través del API: Encuentra los datos que necesitas y ve al botón de “API de datos”.&lt;/p&gt;
+
+&lt;h2 id=&quot;estoy-buscando-datos-y-no-los-encuentro&quot;&gt;¿Estoy buscando datos y no los encuentro?&lt;/h2&gt;
+&lt;p&gt;Puede ser que esos datos aún no estén en datamx :(. En ese caso, pídelos a través del Centro de Apertura de Datos.&lt;/p&gt;
+
+&lt;h2 id=&quot;quin-mantiene-datamx&quot;&gt;¿Quién mantiene datamx?&lt;/h2&gt;
+&lt;p&gt;Por el momento &lt;a href=&quot;http://codeandomexico.org&quot;&gt;Codeando México&lt;/a&gt; está encargándose de que datamx funcione. Sin embargo, datamx
+es un proyecto de tod@s, es código abierto y estás invitad@ a &lt;a href=&quot;http://apertura.datamx.io&quot;&gt;contribuir&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;cul-es-la-diferencia-entre-datamx-y-datosgobmx&quot;&gt;¿Cuál es la diferencia entre datamx y datos.gob.mx?&lt;/h2&gt;
+&lt;p&gt;¡Somos plataformas hermanas! &lt;a href=&quot;http://datos.gob.mx&quot;&gt;datos.gob.mx&lt;/a&gt; es la plataforma oficial de datos abiertos del Gobierno
+de México y ahí puedes encontrar muchos datos de valor. Datamx es la contraparte civil de esta plataforma.
+datos.gob.mx es una plataforma dedicada exclusivamente a entidades gubernamentales.  En datamx cualquier
+ciudadano, académico, asociación de la sociedad civil o entidad gubernamental puede abrir y consumir datos.&lt;/p&gt;
+
+&lt;h2 id=&quot;tengo-ms-dudas&quot;&gt;¡Tengo más dudas!&lt;/h2&gt;
+&lt;p&gt;Esperamos tu correo en datamx@codeandomexico.org.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://paginas.datamx.io//faq/</link>
+        <guid isPermaLink="true">http://paginas.datamx.io//faq/</guid>
+        
+        
+        <category>datamx</category>
+        
+      </item>
+    
+  </channel>
+</rss>
