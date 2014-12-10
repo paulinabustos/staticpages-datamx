@@ -18,16 +18,16 @@ Una cantidad enorme de Productos de Datos: visualizaciones, aplicaciones cívica
 
 ##¿Cómo puedo contribuir a datamx?
 Por el momento hay tres actividades principales con las que puedes contribuir.
-Pública datos: Crea una cuenta en datamx, limpia tus datos y publicalos para que la comunidad los utilice.
-Abre datos: Encuentra oportunidades de abrir datos en el [Centro de Apertura de Datos][cad].
-Crea historia de datos y/o aplicaciones cívicas: Consume los datos de datamx para crear historias y/o
+* [Pública datos][pdatos]: Crea una cuenta en datamx, limpia tus datos y publicalos para que la comunidad los utilice.
+* Abre datos: Encuentra oportunidades de abrir datos en el [Centro de Apertura de Datos][cad].
+* Crea historia de datos y/o aplicaciones cívicas: Consume los datos de datamx para crear historias y/o
 aplicaciones cívicas.
 
 
 ##¿Cómo consumo los datos?
 Lo puedes hacer a través de tres mecanismos:
-Descarga los datos: Encuentra los datos que necesitas y ve al botón de “Descargar Datos”.
-Consumirlos a través del API: Encuentra los datos que necesitas y ve al botón de “API de datos”.
+* [Descarga los datos][ddatos]: Encuentra los datos que necesitas y ve al botón de “Descargar Datos”.
+* [Consumirlos a través del API][capi]: Encuentra los datos que necesitas y ve al botón de “API de datos”.
 
 
 ##¿Estoy buscando datos y no los encuentro?
@@ -55,3 +55,6 @@ Esperamos tu correo en datamx@codeandomexico.org.
 [datosgobmx]:            http://datos.gob.mx
 [opendata-handbook]:     http://opendatahandbook.org
 [codeando-mexico]:       http://codeandomexico.org
+[capi]:                  https://docs.google.com/a/codeandomexico.org/presentation/d/1sdpDQ933fN7AtjlXbnV_r9hYy_x9fO0BGde3YYE0qCk/edit#slide=id.p9
+[ddatos]:                https://docs.google.com/a/codeandomexico.org/presentation/d/1OWpQjuF0LxktM090IVAIib3gLi7bvm7yaEfmhygbHF8/edit#slide=id.p9
+[pdatos]:                https://docs.google.com/a/codeandomexico.org/presentation/d/1YPttfl2ikyhPopd-tNfAjRag4xVlh4GLDLPHxq3hdyM/edit#slide=id.p
